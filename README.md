@@ -79,11 +79,11 @@ jest --init // initialize jest for app testing
 
 <!-- my social media links -->
 
-[facebook-url]: https://www.facebook.com/SamiurRahmanMukul
-[instagram-url]: https://www.instagram.com/samiur_rahman_mukul
-[twitter-url]: https://www.twitter.com/SamiurRahMukul
-[linkedin-url]: https://www.linkedin.com/in/SamiurRahmanMukul
-[github-url]: https://www.github.com/SamiurRahmanMukul
+[facebook-url]: https://www.facebook.com/ikniazhev
+[instagram-url]: https://www.instagram.com/ikniazhev
+[twitter-url]: https://www.twitter.com/ikniazhev
+[linkedin-url]: https://www.linkedin.com/in/ikniazhev
+[github-url]: https://www.github.com/ikniazhev
 
 <!-- shield icon links -->
 

@@ -6,7 +6,6 @@
   "scripts": {
     "start": "node server.js",
     "dev": "NODE_ENV=development nodemon server.js",
-    "builds": "babel src -d dist",
     "prod": "NODE_ENV=production node server.js",
     "lint": "eslint .",
     "test": "jest --forceExit",
